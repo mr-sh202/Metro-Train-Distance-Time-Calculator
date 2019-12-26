@@ -1,0 +1,9 @@
+"ID","description","depends_on","duration_mins"
+"[39054,20833412]","Rickshaw 1.5km","#ROWSclojure.lang.LazySeq@1",5
+"[39054,20833413]","Blue Line (Dwarka-Rajouri)","#ROWSclojure.lang.LazySeq@473f6963",20
+"[39054,20833414]","Interchange","#ROWSclojure.lang.LazySeq@473f6982",4
+"[39054,20833418]","Pink Line (Rajouri-NSP)","#ROWSclojure.lang.LazySeq@473f69a1",15
+"[39054,20833423]","Interchange","#ROWSclojure.lang.LazySeq@473f6a1d",4
+"[39054,20833424]","Red Line","#ROWSclojure.lang.LazySeq@473f6d43",18
+"[39054,20833426]","Rickshaw/Bus/Gramin Seva","#ROWSclojure.lang.LazySeq@e7eda860",8
+"[39054,20833434]","","#ROWSclojure.lang.LazySeq@1",
